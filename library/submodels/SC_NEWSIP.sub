@@ -27,7 +27,7 @@
      <Submodel autonomousCompilation="False" autonomousRuntime="False" cirPortsOverFramework="0" codeGenVersion="2.0" dir="$AME/libsig/submodels" discontinuity="1" hasTerminate="1" idMax="29" idsReset="0" label="constant signal" name="CONS00" outputType="1" type="0" unit="1">
       <RealParams>
        <Params>
-        <Param defValue="1" historyVariable="k0GEN" maxValue="1e+30" minValue="-1e+30" subId="3" title="constant value" tunable="True" units="null" value="1" varName="k" visibility="True" />
+        <Param defValue="10" historyVariable="k0GEN" maxValue="1e+30" minValue="-1e+30" subId="3" title="constant value" tunable="True" units="null" usesScGp="1" value="10" varName="k" visibility="True" />
        </Params>
       </RealParams>
       <ParamsGroups>
